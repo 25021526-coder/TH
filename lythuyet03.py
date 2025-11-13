@@ -24,7 +24,7 @@ print(type(d))
 print (type(bool))
 if bool == True:
 # --VD 4--
-s = "10"
+s = 10
 n = int(s)
 cnt = n + 5
 f = float(cnt)
