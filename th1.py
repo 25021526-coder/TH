@@ -33,3 +33,7 @@ elif (a*a + b*b == c*c) or (a*a + c*c == b*b) or (b*b + c*c == a*a):
     print ("3 canh tren co the tao thanh 1 tam giac vuong")
 else:
     print ("3 canh tren khong the tao thanh 1 tam giac")
+# 26/11/2025
+def avg(a, b, c, d, e):
+    return (a + b + c + d + e) / 5
+

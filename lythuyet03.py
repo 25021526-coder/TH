@@ -23,6 +23,7 @@ print(type(li))
 print(type(d))
 print (type(bool))
 if bool == True:
+    print("bool is True")
 # --VD 4--
 s = 10
 n = int(s)
